@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: jojo926866@gmail.com
 description: "这里是 @JoJo 的个人博客，与你一起发现更大的世界 | 一个普通的干饭人🍚"
 keyword: "JoJo, JoJoJoJo, JoJo, 鬼栈, JoJopro, @JoJopro, JoJo的博客, JoJo Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://jojolife.netlib.re" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
